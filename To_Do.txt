@@ -1,0 +1,6 @@
+1) Use the real position gap and velocity gap
+2) Change the names of the output files using a good notation
+3) Add the gap position and gap velocity to the Olmos-Munoz evolution
+4) Use only one type of lane change
+5) Simplify the lane changing rules
+6) Simplify the implementations of the boundaries
