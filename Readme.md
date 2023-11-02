@@ -1,4 +1,4 @@
-#Cellular automaton for multilane simulations:
+# Cellular automaton for multilane simulations:
 
 ## Description
 The project is written in C++ and the data analysis is done in Python. The current implementation only supports one core wokrflow, it is a pending work to parallelize this code.
